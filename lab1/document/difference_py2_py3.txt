@@ -1,0 +1,8 @@
+python 2        vs        python 3
+
+print "harshil"		print("harshil")
+
+raw_input()		input()
+
+
+
