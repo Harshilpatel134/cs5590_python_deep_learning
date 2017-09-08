@@ -1,0 +1,61 @@
+India    1
+is    3
+a    3
+vast    1
+South    1
+Asian    1
+country    1
+with    1
+diverse    1
+terrain    1
+–    2
+from    1
+Himalayan    3
+peaks    1
+to
+Indian    1
+Ocean    1
+coastline    1
+and    7
+history    1
+reaching    1
+back    1
+5    1
+millennia.    1
+In    1
+the    3
+north,    1
+Mughal
+Empire    1
+landmarks    2
+include    2
+Delhi’s    2
+Red    2
+Fort    2
+complex    2
+massive    2
+Jama    2
+Masjid    2
+mosque,    2
+plus    2
+Agra’s    2
+iconic    2
+Taj    2
+Mahal    2
+mausoleum.
+
+Pilgrims    1
+bathe    2
+in    4
+Ganges    2
+Varanasi,    2
+Rishikesh    2
+yoga    2
+centre    2
+base    2
+for    2
+trekking
+Pilgrims    1
+trekking
+Empire    1
+mausoleum.    1
