@@ -10,4 +10,6 @@ arr=numpy.random.randint(0,1000,a,int)   ## creating random value in vector
 arrr=arr.reshape(l)                         ## reshaping it to our requirement
 print (arrr)                                ## printing vector
 print ("max element in vector is:" + str(numpy.amax(arrr)))   ## printing max element
+arrr[numpy.argmax(arrr)]=100
+print(arrr)
 print("it has been replaced with 100")
