@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\Users\\harsh\\Desktop\\dp\\DeepLearning_Lesson4_SourceCode\\ass 2\\runs\\1510980344\\checkpoints\\model-200"
+all_model_checkpoint_paths: "C:\\Users\\harsh\\Desktop\\dp\\DeepLearning_Lesson4_SourceCode\\ass 2\\runs\\1510980344\\checkpoints\\model-100"
+all_model_checkpoint_paths: "C:\\Users\\harsh\\Desktop\\dp\\DeepLearning_Lesson4_SourceCode\\ass 2\\runs\\1510980344\\checkpoints\\model-200"
